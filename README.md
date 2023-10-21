@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArmanMikayelovich
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Spring Microservices
+- 👀 I’m working with Java
+- 🌱 I’m currently learning Golang
 - 📫 How to reach me ... contact with email: ArmanMikayelovich@gmail.com
 
 <!---
